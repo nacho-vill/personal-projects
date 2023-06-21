@@ -1,1 +1,1 @@
-# personal-projects
+Folder for my personal projects
