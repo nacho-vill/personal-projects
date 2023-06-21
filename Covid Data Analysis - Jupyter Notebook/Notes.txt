@@ -1,0 +1,47 @@
+if transmit remains constant, and there are more repored cases
+-increased testing
+
+If testing rate remains constant, and there are more reported cases,
+-Increased transmit
+
+Variables for Transmit can be because of
+-social gatherings (holidays etc.)
+-virus variant
+-community quarantine policies
+-mask policies
+-Vaccination rate & Type of vaccines
+
+Apparent wave date ranges with peak cases and deaths on a day
+1. Jan 2020 - May 2020 (cases:    500) (deaths:  40)
+2. May 2020 - Feb 2021 (cases:  7,000) (deaths:  80)
+3. Feb 2021 - Jul 2021 (cases: 15,000) (deaths: 180)
+4. Jul 2021 - Dec 2021 (cases: 25,000) (deaths: 400)
+5. Jan 2022 - May 2022 (cases: 40,000) (deaths: 140)
+6. May 2022 - Present  (cases:  4,000) (deaths:  24)
+
+Things to look at
+1. Line graph of cases and deaths (daily and weekly)
+2. Line graph of cases and deaths broken down by age group or place of residence (daily and weekly)
+3. Pie chart of cases and deaths by age group and place of residence
+4. Cummulative graph of cases and deaths stacked on each other
+5. Breaking down stats by covid variant wave
+6. Find the average delay between getting covid and death
+7. Look into the dates that certain covid variants first entered the philippines
+8. Note down long holidays, and vacation times
+9. Look into boarder status and inflow of foreigners into the country
+10. Look into the split between asymptomatic, and symptomatic covid cases.
+11. DateOnset vs DateRepConf for data
+
+January: First covid case was a 5-year old boy in cebu
+August 2020: variant originating in the philippines discovered, and is associated with sudden increase of new cases in July.
+December 2020: In January 2021 Lineage B.1.1.7 from the UK was announced to be in the Philippines as early as December 2020.
+Feb 18 2021: Two mutations discovered in cebu E484K N501Y
+March 2 2021: Detection of South African variant in Pasay
+March 12 2021: Brazilian variant
+May 11 2021: Delta varient detected in seafarerers who returned in April.
+July 16 2021: Detected 16 new cases of Delta Variant
+August 15 2021: First case of Lambda variant
+December 15 2021: Omicron first detected in the country.
+January 15 2022: DOH confirmed community transmission of Omicron
+
+October 17 2022: First confirmed cases of Omicron XBB subvariant and XBC variant
