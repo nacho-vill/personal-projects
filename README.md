@@ -6,4 +6,4 @@ Contains my initial analysis of the DOH Covid Data Drop Data using python librar
 
 Covid Analysis - Tableau: 
 
-Contains the Tableau workbook I had made to see what insight could be gleemed from the DOH Covid Data Drop.
+Contains the Tableau workbook I had made to see what insight could be gleamed from the DOH Covid Data Drop.
