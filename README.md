@@ -1,4 +1,4 @@
-Folder for my personal projects
+Folder for the personal projects of Ignacio Andres D. Villanueva
 
 Covid Analysis - Jupyter Notebook:
 
